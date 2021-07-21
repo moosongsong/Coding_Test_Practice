@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class NUM_16206 {
+public class NUM_16206_ {
     static final int CUT = 10;
 
     public static void main(String[] args) throws IOException {
